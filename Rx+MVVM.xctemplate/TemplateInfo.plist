@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SupportsSwiftPackage</key>
+	<true/>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>Description</key>
+	<string>RxSwift + MVVM File Template</string>
+	<key>Summary</key>
+	<string>RxSwift + MVVM File Template</string>
+	<key>SortOrder</key>
+	<string>50</string>
+	<key>DefaultCompletionName</key>
+	<string></string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>NotPersisted</key>
+			<false/>
+			<key>Name</key>
+			<string>이름</string>
+			<key>Description</key>
+			<string>설명</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>Required</key>
+			<true/>
+			<key>Identifier</key>
+			<string>identifier</string>
+			<key>Default</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
